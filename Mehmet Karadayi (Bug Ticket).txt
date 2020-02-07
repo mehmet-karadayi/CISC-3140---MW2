@@ -13,7 +13,7 @@ Expected Results:
 
 
 Actual Results:
-        The mouse cursor is invisible to the user.  The user can still click on items and drop down menus, however, it is             difficult to pinpoint the exact location/position of the cursor.
+        The mouse cursor is invisible to the user.  The user can still click on items and drop down menus, however, it is    difficult to pinpoint the exact location/position of the cursor.
 
 
 Temporary Fix:
