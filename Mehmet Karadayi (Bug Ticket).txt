@@ -1,0 +1,34 @@
+﻿Summary:
+        Mouse cursor disappears on the MacBook display when you switch from one application to another.
+
+
+Steps to Reproduce:
+* Open several applications to run at the same time.
+* Open a browser application and have multiple tabs running
+* Press Command + Tab to switch from one window to another. 
+
+
+Expected Results:
+        The mouse cursor should continue to appear on the location as it appeared on the previous window.
+
+
+Actual Results:
+        The mouse cursor is invisible to the user.  The user can still click on items and drop down menus, however, it is difficult to pinpoint the exact location/position of the cursor.
+
+
+Temporary Fix:
+ The cursor re-appears when you move the invisible cursor to the top of the screen and single-click on the mouse pad.  
+
+
+
+
+More Info
+
+
+Screenshots:
+
+
+Model Name :                Macbook Pro
+Model Identifier :         Macbook Pro 13,2
+System Version :        Mac OS 10.14.6
+Display Resolution :        2560x160 retina
